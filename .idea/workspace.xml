@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3cd5fe1b-965f-43d3-b144-bb109ab6fbd2" name="Changes" comment="Homework Arrays Part 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659036933338</updated>
-      <workItem from="1659036934778" duration="16771000" />
+      <workItem from="1659036934778" duration="17563000" />
     </task>
     <task id="LOCAL-00001" summary="Homework Arrays Part 2">
       <created>1659037121806</created>
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659037772369</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework Arrays Part 2">
+      <created>1659054024655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659054024655</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

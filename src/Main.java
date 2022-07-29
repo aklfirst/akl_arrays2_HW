@@ -14,7 +14,6 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = (int) (Math.random() * 100_000) + 100_000;
             sum += arr[i];
-            System.out.println(arr[i]); // убрать потом
         }
         averageCost = (sum / arr.length) * 1.0;
 
